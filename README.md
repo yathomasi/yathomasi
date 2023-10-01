@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co/Lp3bd8F/enigma.png"  />
+  <img height="150" src="https://avatars.githubusercontent.com/u/20840228?v=4"  />
 </div>
 
 ###
@@ -28,13 +28,13 @@
 
 ### 👩‍💻  About Me
 
-I'm Thomas from the lap of Himalayas of Nepal ⛰️🇳🇵
-- 🔭 I’m working as Software Engineer at <a href="https://github.com/iterative" target="_blank">@Iterative</a>
+I'm Thomas from the lap of Himalayas in Nepal ⛰️🇳🇵
+- 🔭 Currently working as Software Engineer at <a href="https://github.com/iterative" target="_blank">@Iterative</a>
 - ✨ Creating bugs since 2016
 - 🧰 Fullstack Developer (Typescript, Nextjs, Gatsby, Express, Docker)
 - 📚 Learning modern web apps: New frameworks, libraries, & best practices for dynamic, scalable web interfaces
 - ⚡ In my free time I am experimenting with new tech, reading articles, listening to podcasts on YouTube, and spending time outdoors in nature
-- 🎯 Goals: Refine skills, try innovative approach to problems
+- 🎯 Goals: Refine skills, try innovative approaches to problems
 - 🎲 Fun fact: Did you know that modern high-end CPUs can contain billions of transistors? For example, the AMD Ryzen Threadripper 3990X has more transistors than there are stars in the Milky Way galaxy!
 
 
